@@ -5,7 +5,7 @@ net salary calculator
 ## Name
 DIKIRR BRANDON
 ## Description 
-
+It's a webpage that calculates an individual's Net Salary by getting inputs of basic salary and benefits 
 ## Installation
 you can use git clone to download the project files from github
 ## Installation Requirements
